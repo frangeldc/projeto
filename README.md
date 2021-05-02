@@ -1,1 +1,1 @@
-# Projeto de software apra uma clínica de oftalmologia
+# Projeto de software para uma clínica de oftalmologia
